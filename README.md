@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Deyan Ardi github stats](https://github-readme-stats.vercel.app/api?username=deyan-ardi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi)](https://github.com/deyan-ardi/github-readme-stats)
