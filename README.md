@@ -37,7 +37,7 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 
 [![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&layout=compact&theme=radical)](https://github.com/deyan-ardi)
 
-## 📫 Cara Menghubungi
+## 📫 Hubungi Saya
 
 Hubungi saya melalui link dibawah ini:
 
