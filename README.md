@@ -40,6 +40,7 @@ Hubungi saya melalui link dibawah ini:
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
 
-[![Waktu Aktivitas](https://github-readme-stats.vercel.app/api/wakatime?username=deyan-ardi&layout=compact&theme=radical)](https://github.com/deyan-ardi)
+[![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&layout=compact&theme=radical)](https://github.com/deyan-ardi)
+
 
 
