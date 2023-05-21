@@ -23,6 +23,8 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=api&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ## 📊 Statistik GitHub
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
