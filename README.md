@@ -10,8 +10,8 @@ Sebutkan bahasa pemrograman atau teknologi yang Anda kuasai. Sertakan ikon atau 
 
 ## Statistik GitHub
 
-[![Jumlah Pengikut](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
-[![Jumlah Bintang](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo)
+[![Jumlah Pengikut](https://img.shields.io/github/followers/username?style=social)](https://github.com/deyan-ardi)
+[![Jumlah Bintang](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/deyan-ardi/repo)
 ![Deyan Ardi github stats](https://github-readme-stats.vercel.app/api?username=deyan-ardi)
 ## Lisensi
 
