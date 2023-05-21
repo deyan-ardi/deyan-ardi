@@ -1,14 +1,12 @@
 # Hello World!
 I'm Enthusiastic Programmers, Back End Dev, System Analyst
-## 🚀 Proyek Utama
+
+## 🚀 Sample Project
 
 - [GanaDev Notif Package For Laravel](https://github.com/deyan-ardi/ganadev-notif): Ganadev Notification Sender is an API developed by GanaDev Com to simplify and support the process of sending notifications faster without disturbing the main application. 
 - [POS Project](https://github.com/deyan-ardi/pos-project): Point of Sales(POS) adalah suatu sistem yang digunakan oleh berbagai macam usaha ritel untuk menyelesaikan transaksi jual beli. 
-
-## ⭐️ Kontribusi Open Source
-
-- [Kontribusi 1](https://github.com/upstream-repo/deyan-ardi/pull/123): Deskripsi tentang kontribusi Anda pada proyek open-source.
-- [Kontribusi 2](https://github.com/upstream-repo/deyan-ardi/pull/456): Penjelasan tentang kontribusi lainnya dan dampaknya pada komunitas.
+- [SEMESTA KITA](https://github.com/deyan-ardi/semesta-kita): Semesta kita merupakan sebuah aplikasi berbasis web yang dapat digunakan untuk membantu dalam memanajemen TPST yang ada, sistem ini terdiri dari fitur Kasir tabungan, pembayaran tagihan, penyetoran sampah, hingga rekapan dan laporan yang akan membantu TPST dalam memanajamen kegiatan transaksinya dengan mudah, cepat, dan berbasis teknologi
+- [DSS Method Aras](https://github.com/deyan-ardi/sim-spk-aras): DSS Method Aras adalah sebuah sistem pendukung keputusan yang dikembangkan dengan menggunakan metode ARAS, bersifat open source dan dapat diakses oleh siapapun
 
 ## 🔧 Bahasa dan Teknologi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,8 +23,8 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=api&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-## 📊 Statistik GitHub
 
+## 📊 Statistik GitHub
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
 ## 🔧 Statistik Bahasa
@@ -37,10 +35,6 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 
 Hubungi saya melalui email atau melalui media sosial:
 
-- Email: [email@example.com](mailto:email@example.com)
-- Twitter: [@username](https://twitter.com/username)
-- LinkedIn: [Nama Anda](https://www.linkedin.com/in/username)
+- S.Id: [Personal Profil](https://s.id/deyan-ardi)
+- Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
 
-## 📜 Lisensi
-
-Proyek-proyek open-source saya dilisensikan di bawah [lisensi MIT](LICENSE).
