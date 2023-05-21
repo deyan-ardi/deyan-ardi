@@ -29,6 +29,9 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ## 📊 Statistik GitHub
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
+## 📊 Statistik Repositori
+[![Statistik Repositori](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
+
 ## 🔧 Statistik Bahasa
 
 [![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&layout=compact&theme=radical)](https://github.com/deyan-ardi)
@@ -39,9 +42,3 @@ Hubungi saya melalui link dibawah ini:
 
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
-- 
-[![Statistik Repositori](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
-
-
-
-
