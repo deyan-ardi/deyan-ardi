@@ -39,8 +39,9 @@ Hubungi saya melalui link dibawah ini:
 
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
+- 
+[![Statistik Repositori](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
 
-[![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&layout=compact&theme=radical)](https://github.com/deyan-ardi)
 
 
 
