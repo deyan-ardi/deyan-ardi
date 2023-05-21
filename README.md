@@ -33,7 +33,7 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 
 ## 📫 Cara Menghubungi
 
-Hubungi saya melalui email atau melalui media sosial:
+Hubungi saya melalui link dibawah ini:
 
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
