@@ -42,4 +42,5 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 Hubungi saya melalui link dibawah ini:
 
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
+- Google Developer : [Google Developer Account](https://g.dev/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
