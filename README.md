@@ -1,5 +1,7 @@
 # Hello World!
 Im Enthusiastic Programmers, Back End Dev, System Analyst
+[![Jumlah Pengikut](https://img.shields.io/github/followers/deyan-ardi?style=social)](https://github.com/deyan-ardi)
+[![Jumlah Bintang](https://img.shields.io/github/stars/deyan-ardi/repo?style=social)](https://github.com/deyan-ardi/repo)
 ## Proyek Populer
 
 Daftar proyek open-source atau kontribusi yang populer yang telah Anda kerjakan. Sertakan tautan dan deskripsi singkat untuk setiap proyek.
@@ -9,9 +11,6 @@ Daftar proyek open-source atau kontribusi yang populer yang telah Anda kerjakan.
 Sebutkan bahasa pemrograman atau teknologi yang Anda kuasai. Sertakan ikon atau badge untuk setiap bahasa atau teknologi yang relevan.
 
 ## Statistik GitHub
-
-[![Jumlah Pengikut](https://img.shields.io/github/followers/username?style=social)](https://github.com/deyan-ardi)
-[![Jumlah Bintang](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/deyan-ardi/repo)
 ![Deyan Ardi github stats](https://github-readme-stats.vercel.app/api?username=deyan-ardi)
 ## Lisensi
 
