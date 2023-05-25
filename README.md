@@ -13,6 +13,7 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4323?style=flat&logo=codeigniter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
