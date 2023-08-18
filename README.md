@@ -4,7 +4,7 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.visitor-badge"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.deyan-ardi"  />
 </div>
 
 # Hello World!
