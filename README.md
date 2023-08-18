@@ -46,4 +46,5 @@ I'm open for new project, please contact me from my contact link:
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg)
+
