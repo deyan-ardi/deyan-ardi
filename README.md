@@ -40,6 +40,9 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ## 📊 Github Grafik
 ![Github Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
+## 📊 Repository Grafik
+[![Repository Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
+
 ## 📊 Contribution Resume
 [![Contribution Resume](https://streak-stats.demolab.com?user=deyan-ardi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
