@@ -44,4 +44,4 @@ I'm open for new project, please contact me from my contact link:
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
 
 ###
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg" alt="Snake animation" />
