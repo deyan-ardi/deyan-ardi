@@ -42,3 +42,8 @@ I'm open for new project, please contact me from my contact link:
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
 - Google Developer : [Google Developer Account](https://g.dev/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg" alt="Snake animation" />
