@@ -66,5 +66,5 @@ I'm open for new project, please contact me from my contact link:
 - Google Developer : [Google Developer Account](https://g.dev/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
 
-###
+## 🎉Have Fun
 <img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg" alt="Snake animation" />
