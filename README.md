@@ -41,7 +41,7 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![Github Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
 ## 📊 Repository Grafik
- <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+[![Repository Grafik](https://streak-stats.demolab.com?user=deyan-ardi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
 ## 🔧 Programming Language Grafik
 
