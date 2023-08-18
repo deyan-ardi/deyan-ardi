@@ -7,7 +7,7 @@
       <img alt="Google Developer" src="https://img.shields.io/badge/Google%20Developer-Profile-blue?style=flat-square&logo=google&logoColor=white" />
    </a>
    <a href="https://s.id/deyan-ardi">
-      <img alt="S.Id" src="https://img.shields.io/badge/S.Id-Profile-green?style=flat-square&logo=instagram&logoColor=white" />
+      <img alt="S.Id" src="https://img.shields.io/badge/S.Id-Profile-green?style=flat-square&logo=earth&logoColor=white" />
    </a>
    <a href="https://gitlab.com/deyan-ardi">
       <img alt="Gitlab Profil" src="https://img.shields.io/badge/Gitlab-Profile-orange?style=flat-square&logo=gitlab&logoColor=white" />
