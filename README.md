@@ -3,10 +3,17 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Google Developer Profile&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google logo"  />
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gitlab Profile&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
+  <a href="https://g.dev/deyan-ardi">
+    <img src="https://img.shields.io/static/v1?message=Google Developer Profile&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google logo" />
+  </a>
+  <a href="https://s.id/deyan-ardi">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo" />
+  </a>
+  <a href="https://gitlab.com/deyan-ardi">
+    <img src="https://img.shields.io/static/v1?message=Gitlab Profile&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo" />
+  </a>
 </div>
+
 
 ###
 <div align="center">
