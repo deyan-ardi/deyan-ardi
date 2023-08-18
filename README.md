@@ -1,5 +1,15 @@
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.deyan-ardi&"  />
+</div>
+
 # Hello World!
 I'm Enthusiastic Programmers, Back End Dev, System Analyst
+
 ## 🚀 Open Repository
 
 - [GanaDev Notif Package For Laravel](https://github.com/deyan-ardi/ganadev-notif): Sebuah package yang membantu dalam mengintegrasikan aplikasi yang kita kembangkan dengan Ganadev Api Notification yang merupakan API yang berguna dalam pengiriman Email dan WhatsApp.
@@ -31,7 +41,7 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![Github Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
 ## 📊 Repository Grafik
-[![Repository Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
+ <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ## 🔧 Programming Language Grafik
 
@@ -42,9 +52,3 @@ I'm open for new project, please contact me from my contact link:
 - S.Id: [Personal Profil](https://s.id/deyan-ardi)
 - Google Developer : [Google Developer Account](https://g.dev/deyan-ardi)
 - Gitlab : [Gitlab Profil](https://gitlab.com/deyan-ardi)
-
-###
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg)
-
