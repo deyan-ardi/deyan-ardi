@@ -4,7 +4,7 @@
 
 ###
 <div align="center">
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.visitor-badge"  />
 </div>
 
 # Hello World!
