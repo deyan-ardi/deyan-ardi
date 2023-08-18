@@ -10,14 +10,14 @@
 # Hello World!
 I'm Enthusiastic Programmers, Back End Dev, System Analyst
 
-## 🚀 Open Repository
+## 🚀 Open Source Repository
 
 - [GanaDev Notif Package For Laravel](https://github.com/deyan-ardi/ganadev-notif): Sebuah package yang membantu dalam mengintegrasikan aplikasi yang kita kembangkan dengan Ganadev Api Notification yang merupakan API yang berguna dalam pengiriman Email dan WhatsApp.
 - [Laravel Layerize](https://github.com/deyan-ardi/laravel-layerize): Sebuah package yang membantu dalam mengimplementasikan Layer Architecture/Clean Architecture pada Laravel, dibuat lebih sederhana sehingga mudah dipahami dan dipelajari
 - [DSS Method Electre](https://github.com/deyan-ardi/semesta-kita): Semesta kita merupakan sebuah aplikasi berbasis web yang dapat digunakan untuk membantu dalam memanajemen TPST yang ada, sistem ini terdiri dari fitur Kasir tabungan, pembayaran tagihan, penyetoran sampah, hingga rekapan dan laporan yang akan membantu TPST dalam memanajamen kegiatan transaksinya dengan mudah, cepat, dan berbasis teknologi. Pada aplikasi ini diintegrasikan sebuah modul DSS yakni Electre untuk mencari Pelanggan TPST terbaik setiap bulannya.
 - [DSS Method Aras](https://github.com/deyan-ardi/sim-spk-aras-ci): DSS Method Aras adalah sebuah sistem pendukung keputusan yang dikembangkan dengan menggunakan metode ARAS, bersifat open source dan dapat diakses oleh siapapun, sistem pendukung keputusan ini dikembangkan dengan Framework Codeigniter 3
 
-## 🔧 Tech
+## 🔧 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -38,17 +38,14 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
 ## 📊 Github Grafik
-![Github Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
-
-## 📊 Repository Grafik
-[![Repository Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
+[![Github Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
 
 ## 📊 Contribution Resume
 [![Contribution Resume](https://streak-stats.demolab.com?user=deyan-ardi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
-## 🔧 Programming Language Grafik
+## 🔧 Programming Language Statistics
 
-[![Programming Language Grafik](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&layout=compact&theme=radical)](https://github.com/deyan-ardi)
+[![Programming Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&layout=compact&theme=radical)](https://github.com/deyan-ardi)
 
 ## 📫Contact Me
 I'm open for new project, please contact me from my contact link:
