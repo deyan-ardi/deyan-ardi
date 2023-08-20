@@ -60,8 +60,8 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 
 [![Programming Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&layout=compact&theme=radical)](https://github.com/deyan-ardi)
 
-## 📫Contact Me
+## 📫 Contact Me
 I'm open for new project, please contact me via the contact above
 
-## 🎉Have Fun
+## 🎉 Have Fun
 <img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/snake.svg" alt="Snake animation" />
