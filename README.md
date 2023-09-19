@@ -51,14 +51,14 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
 ## 📊 Github Grafik
-[![Github Grafik](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=radical)](https://github.com/deyan-ardi)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=deyan-ardi&count_private=true&theme=tokyonight&showicons=true)]()
 
 ## 📊 Contribution Resume
 [![Contribution Resume](https://streak-stats.demolab.com?user=deyan-ardi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/deyan-ardi)
 
 ## 🔧 Programming Language Statistics
 
-[![Programming Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&layout=compact&theme=radical)](https://github.com/deyan-ardi)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&theme=tokyonight)]()
 
 ## 📫 Contact Me
 I'm open for new project, please contact me via the contact above
