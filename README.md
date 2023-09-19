@@ -52,7 +52,7 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 
 ## 📊 Github Grafik
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=deyan-ardi&count_private=true&theme=tokyonight&showicons=true)]()
-[![My Github Stat](https://raw.githubusercontent.com/deyan-ardi/github-stats/master/generated/overview.svg#gh-dark-mode-only)]
+![](https://raw.githubusercontent.com/deyan-ardi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 📊 Contribution Resume
 [![Contribution Resume](https://streak-stats.demolab.com?user=deyan-ardi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/deyan-ardi)
