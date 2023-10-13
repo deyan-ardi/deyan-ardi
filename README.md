@@ -64,4 +64,4 @@ I'm Enthusiastic Programmers, Back End Dev, System Analyst
 I'm open for new project, please contact me via the contact above
 
 ## 🎉 Have Fun
-<img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deyan-ardi/deyan-ardi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
