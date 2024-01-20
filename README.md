@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
   <a href="https://g.dev/deyan-ardi">
     <img src="https://img.shields.io/static/v1?message=Google Developer Profile&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google logo" />
   </a>
