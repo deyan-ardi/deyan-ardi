@@ -1,23 +1,31 @@
+# 👋 Hello World, I'm Deyan Ardi!
+
+💻 **Back End Developer | System Analyst | Enthusiastic Programmer**
+
+I love building reliable systems, writing clean code, and solving complex problems through backend engineering.  
+I specialize in **Laravel, RESTful API Design, and Scalable Architecture** — with a passion for automation and efficient workflow.
+
+---
+
+### 🌐 Connect with Me
 <div align="center">
   <a href="https://g.dev/deyan-ardi">
-    <img src="https://img.shields.io/static/v1?message=Google Developer Profile&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google logo" />
+    <img src="https://img.shields.io/static/v1?message=Google%20Developer&logo=google&label=&color=4285F4&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://s.id/deyan-ardi">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo" />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://gitlab.com/deyan-ardi">
-    <img src="https://img.shields.io/static/v1?message=Gitlab Profile&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo" />
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
 
-
-###
+---
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.deyan-ardi"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.deyan-ardi" />
 </div>
 
-# Hello World!
-I'm Enthusiastic Programmers, Back End Dev, System Analyst
+
 
 ## 🚀 Open Source Repository
 
