@@ -24,45 +24,79 @@ I specialize in **Laravel, RESTful API Design, and Scalable Architecture** — w
   <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.deyan-ardi" />
 </div>
 
-
+---
 
 ## 🚀 Open Source Repository
 
-- [GanaDev Notif Package For Laravel](https://github.com/deyan-ardi/ganadev-notif): Sebuah package yang membantu dalam mengintegrasikan aplikasi yang kita kembangkan dengan Ganadev Api Notification yang merupakan API yang berguna dalam pengiriman Email dan WhatsApp.
-- [Laravel Layerize](https://github.com/deyan-ardi/laravel-layerize): Sebuah package yang membantu dalam mengimplementasikan Layer Architecture/Clean Architecture pada Laravel, dibuat lebih sederhana sehingga mudah dipahami dan dipelajari
-- [DSS Method Electre](https://github.com/deyan-ardi/semesta-kita): Semesta kita merupakan sebuah aplikasi berbasis web yang dapat digunakan untuk membantu dalam memanajemen TPST yang ada, sistem ini terdiri dari fitur Kasir tabungan, pembayaran tagihan, penyetoran sampah, hingga rekapan dan laporan yang akan membantu TPST dalam memanajamen kegiatan transaksinya dengan mudah, cepat, dan berbasis teknologi. Pada aplikasi ini diintegrasikan sebuah modul DSS yakni Electre untuk mencari Pelanggan TPST terbaik setiap bulannya.
-- [DSS Method Aras](https://github.com/deyan-ardi/sim-spk-aras-ci): DSS Method Aras adalah sebuah sistem pendukung keputusan yang dikembangkan dengan menggunakan metode ARAS, bersifat open source dan dapat diakses oleh siapapun, sistem pendukung keputusan ini dikembangkan dengan Framework Codeigniter 3
+- [**GanaDev Notif Package for Laravel**](https://github.com/deyan-ardi/ganadev-notif)  
+  → Integrasi mudah dengan **Ganadev API Notification** untuk kirim Email & WhatsApp.
+- [**Laravel Layerize**](https://github.com/deyan-ardi/laravel-layerize)  
+  → Implementasi **Clean Architecture** di Laravel, dibuat sederhana & mudah dipahami.
+- [**DSS Method Electre**](https://github.com/deyan-ardi/semesta-kita)  
+  → Sistem manajemen **TPST** dengan modul **DSS Electre** untuk menentukan pelanggan terbaik tiap bulan.
+- [**DSS Method ARAS (CI3)**](https://github.com/deyan-ardi/sim-spk-aras-ci)  
+  → Sistem pendukung keputusan berbasis metode **ARAS**, dikembangkan dengan **CodeIgniter 3**.
 
-## 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+---
+
+## 🧠 Tech Stack
+<div align="center">
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4323?style=flat&logo=codeigniter&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=api&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 Github Grafik
-![](https://raw.githubusercontent.com/deyan-ardi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+</div>
 
-## 📊 Contribution Resume
-[![Contribution Resume](https://streak-stats.demolab.com?user=deyan-ardi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/deyan-ardi)
+---
 
-## 🔧 Programming Language Statistics
+## 🏆 GitHub Achievements
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&langs_count=5&theme=tokyonight)]()
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=deyan-ardi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/deyan-ardi)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyan-ardi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)  
+![GitHub Streak](https://streak-stats.demolab.com?user=deyan-ardi&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deyan-ardi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🧾 Profile Summary Grade
+
+<div align="center">
+
+[![Summary Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyan-ardi&theme=tokyonight)](https://github.com/deyan-ardi)  
+[![Commits Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deyan-ardi&theme=tokyonight&utcOffset=8)](https://github.com/deyan-ardi)
+
+</div>
+
+---
 
 ## 📫 Contact Me
-I'm open for new project, please contact me via the contact above
+
+I'm open for new projects, collaborations, or freelance opportunities.  
+Reach me through my links above or email via my portfolio.  
+
+---
+
+⭐ *"Write code as if the next developer to maintain it is you on a bad day."*
