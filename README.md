@@ -20,7 +20,6 @@ I specialize in **Laravel, RESTful API Design, and Scalable Architecture** — w
   </a>
 </div>
 
----
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=deyan-ardi.deyan-ardi" />
 </div>
